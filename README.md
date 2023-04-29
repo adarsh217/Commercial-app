@@ -1,5 +1,15 @@
-# DBMS-Medical
-How to Run:
-Step 1 : Open the project in VScode or Pycharm
-Step 2 : Go to scripts and activate it
-Step 3 : Use runserver code to Start executing
+# DBMS Medical Project
+#
+## Usage:
+#### Clone the repository:
+```
+$ git clone https://github.com/adarsh217/Commercial-app.git
+```
+#### Install Dependencies :
+```
+$ pip install -r ./requirements.txt
+```
+#### Start MongoDB server and run the code :
+```
+$ py manage.py runserver
+```
